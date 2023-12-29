@@ -32,7 +32,3 @@ I Deployed it on vercel and You Can See it Online :  https://car-showcase-three-
 
 </div>
 
-
-
-
-demo : https://car-showcase-three-livid.vercel.app/
