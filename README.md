@@ -15,7 +15,7 @@
 </a>
 
 <pre style="font-size: 25px ; color: white;">
-  I Create This project using :
+  I Created This project using :
   TypeScript
   Nextjs
   Reactjs 
